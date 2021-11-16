@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$list = [1, 2, 3, 4];
+foreach($list as $item) {
+  echo $item;
+  echo "<br>";
+}
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+​
+1
+2
+3
+4
